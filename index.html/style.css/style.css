@@ -9,8 +9,7 @@ ul {
   }
   
   li {
-    text align: center;
-   
+    text-align: center;
   }
   
   li a {
@@ -33,11 +32,10 @@ ul {
     font-size: 50px;
     margin: 0 auto;
     padding: 10px;
-    .shadow-pop-tr {
+  shadow-pop-tr {
       -webkit-animation: shadow-pop-tr 0.3s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
-              animation: shadow-pop-tr 0.3s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
-  }
-  }
+      animation: shadow-pop-tr 0.3s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+        }
   body {
     background-color: #202020;
   }
