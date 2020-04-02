@@ -8,7 +8,9 @@ The site will be first primarily used as a place to showcase what I learn throug
 
 The site has basic functionality with easy to locate links to navigate in between pages. 
 
-The technologies I used were: html, css, and bootstrap. I also used code from formspree.io, googlefonts.io, and animista.
+The technologies I used were: html, css, and bootstrap. I also used code from formspree.io and googlefonts.io.
 
-Some ideas for future improvement are: reposition elements on the page to optimize user experience, add in more bootstrap to make the navigation bar responsive, add more animations to add to visual appeal, and include more links for users to interact with. 
+Some ideas for future improvement are: reposition elements on the page to optimize user experience, add in more bootstrap to make the navigation bar responsive, add more animations from animista to add to visual appeal, and include more links for users to interact with. Also revisit color palette and improve over time to help certain elements stand out.
+
+
 
